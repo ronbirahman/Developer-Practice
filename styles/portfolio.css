@@ -205,3 +205,9 @@ main section {
     margin-top: 50px;
     margin-bottom: 113px;
 }
+footer{
+    display: flex;
+    background-color: #FFF8F3;
+    padding: 130px 230px;
+    margin-top: 100px;
+}
